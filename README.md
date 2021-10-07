@@ -19,13 +19,13 @@ This repository is the starter code for the project: Students will fork and clon
 ## Screenshots
 
 ## Screenshot of desktop layour
-!["Screenshot of desktop layout"](https://github.com/tennaaro/tweeter/blob/master/docs/desktop-layout.png?raw=true);
+!["Screenshot of desktop layout"](https://github.com/tennaaro/tweeter/blob/master/docs/desktop-layout.png?raw=true)
 
 ## Screenshot of new tweets
-!["Screenshot of new tweets"](https://github.com/tennaaro/tweeter/blob/master/docs/view-of-new-tweets.png?raw=true);
+!["Screenshot of new tweets"](https://github.com/tennaaro/tweeter/blob/master/docs/view-of-new-tweets.png?raw=true)
 
 ## Screenshot of profile and tweets
-!["Screenshot of profile and tweets"](https://github.com/tennaaro/tweeter/blob/master/docs/view-of-profile-and-tweets.png?raw=true);
+!["Screenshot of profile and tweets"](https://github.com/tennaaro/tweeter/blob/master/docs/view-of-profile-and-tweets.png?raw=true)
 
 
 
