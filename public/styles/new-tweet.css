@@ -1,0 +1,29 @@
+.new_tweet {
+  display: flex;
+  justify-content: center;
+}
+
+.tweetButton {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Bungee', cursive;
+}
+
+button {
+  background-color: cadetblue;
+  border: darkblue;
+  text-align: center;
+  display: inline-block;
+  color: white;
+}
+
+#tweet-text {
+  background: transparent;
+  width: 40rem;
+  border: 1px solid transparent;
+  border-bottom: 2px solid black;
+}
+
+.counterNeg {
+  color: red;
+}

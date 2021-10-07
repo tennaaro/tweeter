@@ -18,8 +18,121 @@ body {
   color: #545149;
   background-color: #f4f1ec;
   font-size: 24px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container {
+  display: flex;
+  width: 90%;
+  background-color: #f4f1ec;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+  flex-direction: column;
+}
+
+#logo {
+  font-size: 24px;
+  font-family: 'Bungee', cursive;
+}
+
+article {
+  padding: 5px 10px;
+  border: 2px solid black;
+  margin-top: 40px;
+  width: 40rem;
+}
+
+.tweet-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tweet-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.tweet {
+  word-break: break-word;
+  border: 1px solid transparent;
+  border-bottom: 2px solid black;
+  padding: 1.5rem 1rem;
+}
+
+article:hover {
+  box-shadow: 11px 11px 11px rgba(81, 75, 175, 0.2); 
+}
+
+.fa-flag:hover {
+  color:sandybrown;
+}
+
+.fa-retweet:hover {
+  color:sandybrown;
+}
+
+.fa-heart:hover {
+  color: sandybrown;
+}
+
+.profile {
+  width: 30%;
+  height: 35%;
+  margin-right: 10px;
+}
+
+.tweet-header > div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+span {
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 14px;
+}
+
+#errors {
+  color: red;
+  font-size: 24px;
+  visibility: hidden;
+  border: 2px solid red;
+  font-weight: bold;
+  margin: 10px;
 }
 
 /*
  * Additional CSS can be defined below or in other CSS files, as per instructions
  */
+
+ /* Tablet Styles */
+
+
+/* Desktop styles */
+@media only screen and (min-width: 1024px) {
+
+  body {
+    display: flex;
+    flex-direction: row;
+  }
+
+  .container {
+    width: 100%;
+    margin: 3em 2em 0 0;
+    margin-top: calc(120px + 2em);
+  }
+
+  .headerContainer {
+    width: 33.3%;
+    padding: 2em;
+    margin: 1.5em;
+    margin-top: calc(120px + 2em);
+  }
+
+  
+}
