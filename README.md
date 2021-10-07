@@ -15,3 +15,14 @@ This repository is the starter code for the project: Students will fork and clon
 
 - Express
 - Node 5.10.x or above
+
+## Screenshots
+
+!["Screenshot of desktop layout"](https://github.com/tennaaro/tweeter/blob/master/docs/desktop-layout.png?raw=true);
+
+!["Screenshot of new tweets"](https://github.com/tennaaro/tweeter/blob/master/docs/view-of-new-tweets.png?raw=true);
+
+!["Screenshot of profile and tweets"](https://github.com/tennaaro/tweeter/blob/master/docs/view-of-profile-and-tweets.png?raw=true);
+
+
+
