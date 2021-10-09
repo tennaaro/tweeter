@@ -30,6 +30,8 @@ $(document).ready(function() {
       }
     })
   }
+
+  loadTweets();
   
   // create a layout for a new tweet. using escape function to check if tweet is valid
   const createTweetElement = (tweet) => {
