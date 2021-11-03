@@ -18,7 +18,7 @@ This repository is the starter code for the project: Students will fork and clon
 
 ## Screenshots
 
-## Screenshot of desktop layour
+## Screenshot of desktop layout
 !["Screenshot of desktop layout"](https://github.com/tennaaro/tweeter/blob/master/docs/desktop-layout.png?raw=true)
 
 ## Screenshot of new tweets
